@@ -1,0 +1,5 @@
+[
+  "testCases/test_login.py::TestLogin001::test_login[chrome]",
+  "testCases/test_login.py::TestLogin001::test_login_page_title[chrome]",
+  "testCases/test_login_ddt.py::TestLoginDDT002::test_login[chrome]"
+]
